@@ -1,0 +1,160 @@
+[
+    {
+        "id": "HVI-75466160",
+        "timestamp": 1720161042000,
+        "confidence": "confirmed",
+        "cve_id": "",
+        "cwe": [],
+        "issue_category": [
+            "Web Communication"
+        ],
+        "issue_id": 47,
+        "issue_name": "TLS Certificate is Self Signed",
+        "issue_type": [
+            "IT Hygiene"
+        ],
+        "potential_attack_type": [],
+        "potential_impact": [],
+        "priority": "Unassigned",   
+        "status": "active",
+        "progress_status": "New",
+        "severity": "high",
+        "fixing_effort": "Basic",
+        "hackerview_link": "https://hackerview.ctm360.com/issues/issues_found/overview/210133cceb9647a6f6dc600165d0cc1a/47",
+        "member_id": 73069,
+        "resolved_ip": "229.13.147.132",
+        "first_seen": "05-07-2024 06:28:28",
+        "last_seen": "26-10-2024 12:15:24",
+        "environments": [
+            "Marketing",
+            "JavaScript",
+            "Web Server"
+        ],
+        "ip": "",
+        "ticket_id": "HVI-75466160",
+        "business_unit": [],
+        "host_type": [
+            "website",
+            "active"
+        ],
+        "technologies": [
+            "Apache",
+            "Google Analytics"
+        ],
+        "discovery_source": [
+            "manual_detection"
+        ],
+        "domain": "doughnutkitten.com",
+        "host": "doughnutkitten.com",
+        "asset_type": "host",
+        "scan_id": "97a186944e5c708855688784478980c0",
+        "asset": "doughnutkitten.com",
+        "brand": "RiskAssess Demo"
+    },
+    {
+        "id": "HVI-11136324",
+        "timestamp": 1720161795000,
+        "confidence": "confirmed",
+        "cve_id": "",
+        "cwe": [],
+        "issue_category": [
+            "Web Communication"
+        ],
+        "issue_id": 72,
+        "issue_name": "SSL Expiring in 30 days",
+        "issue_type": [
+            "IT Hygiene"
+        ],
+        "potential_attack_type": [],
+        "potential_impact": [],
+        "priority": "Unassigned",
+        "status": "inactive",
+        "progress_status": "New",
+        "severity": "informational",
+        "fixing_effort": "Moderate",
+        "hackerview_link": "https://hackerview.ctm360.com/issues/issues_found/overview/6b6426bcb800bb23ac4bff9b6620246c/72",
+        "member_id": 73069,
+        "resolved_ip": "154.134.143.229",
+        "first_seen": "05-07-2024 06:42:36",
+        "last_seen": "10-07-2024 10:55:13",
+        "environments": [
+            "Development",
+            "Hosting"
+        ],
+        "ip": "",
+        "ticket_id": "HVI-11136324",
+        "business_unit": [],
+        "host_type": [
+            "website",
+            "mail_sending",
+            "active"
+        ],
+        "technologies": [
+            "Vercel Inc Vercel"
+        ],
+        "discovery_source": [
+            "manual_detection"
+        ],
+        "domain": "hacksplaining.com",
+        "host": "hacksplaining.com",
+        "asset_type": "host",
+        "scan_id": "883c61974d31d252f0b9ad17ae50aeb7",
+        "asset": "hacksplaining.com",
+        "brand": "RiskAssess Demo"
+    },
+    {
+        "id": "HVI-98944790",
+        "timestamp": 1720163092000,
+        "confidence": "confirmed",
+        "cve_id": "",
+        "cwe": [],
+        "issue_category": [
+            "Web Communication"
+        ],
+        "issue_id": 47,
+        "issue_name": "TLS Certificate is Self Signed",
+        "issue_type": [
+            "IT Hygiene"
+        ],
+        "potential_attack_type": [],
+        "potential_impact": [],
+        "priority": "Unassigned",
+        "status": "active",
+        "progress_status": "New",
+        "severity": "high",
+        "fixing_effort": "Basic",
+        "hackerview_link": "https://hackerview.ctm360.com/issues/issues_found/overview/adfc0c1e48b0e50c30f36ad1aad78563/47",
+        "member_id": 73069,
+        "resolved_ip": "229.13.147.132",
+        "first_seen": "05-07-2024 07:02:47",
+        "last_seen": "26-10-2024 11:22:06",
+        "environments": [
+            "Marketing",
+            "JavaScript",
+            "Web Server"
+        ],
+        "ip": "",
+        "ticket_id": "HVI-98944790",
+        "business_unit": [],
+        "host_type": [
+            "website",
+            "active"
+        ],
+        "technologies": [
+            "Apache",
+            "Google Analytics"
+        ],
+        "discovery_source": [
+            "forward_dns",
+            "subfinder",
+            "security_trails",
+            "alienvault"
+        ],
+        "domain": "doughnutkitten.com",
+        "host": "www.doughnutkitten.com",
+        "asset_type": "host",
+        "scan_id": "97a186944e5c708855688784478980c0",
+        "asset": "www.doughnutkitten.com",
+        "brand": "RiskAssess Demo"
+    }
+]
